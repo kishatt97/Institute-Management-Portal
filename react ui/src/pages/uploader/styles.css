@@ -1,0 +1,23 @@
+.img-upload-pane{
+  background: antiquewhite;
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  top: 170px;
+  left: 460px;
+}
+
+.img-close-btn{
+  position: absolute;
+    right: 20px;
+    top: 20px;
+    width: 30px;
+    align-items: flex-start;
+}
+.img-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 50px;
+  padding: 20px;
+}

@@ -1,0 +1,237 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 6,
+      "types": [
+        {
+          "name": "ObjectID",
+          "bsonType": "ObjectID",
+          "path": "_id",
+          "count": 6,
+          "values": [
+            "632f495a62cecb41ad98c21f",
+            "632f496062cecb41ad98c220",
+            "632f494862cecb41ad98c21d",
+            "632f493262cecb41ad98c21b",
+            "632f495462cecb41ad98c21e",
+            "632f494262cecb41ad98c21c"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 6,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 6,
+      "type": "ObjectID",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "_class",
+      "path": "_class",
+      "count": 6,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "_class",
+          "count": 6,
+          "values": [
+            "com.example.studentportal.modal.TimeTableMaster",
+            "com.example.studentportal.modal.TimeTableMaster",
+            "com.example.studentportal.modal.TimeTableMaster",
+            "com.example.studentportal.modal.TimeTableMaster",
+            "com.example.studentportal.modal.TimeTableMaster",
+            "com.example.studentportal.modal.TimeTableMaster"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 6,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "course",
+      "path": "course",
+      "count": 6,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "course",
+          "count": 6,
+          "values": [
+            "PgDac",
+            "PgDac",
+            "PgDac",
+            "PgDac",
+            "PgDac",
+            "PgDac"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 6,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "date",
+      "path": "date",
+      "count": 6,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "date",
+          "count": 6,
+          "values": [
+            "9/26/2022",
+            "9/27/2022",
+            "9/27/2022",
+            "9/25/2022",
+            "9/25/2022",
+            "9/26/2022"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 3,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 6,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "link",
+      "path": "link",
+      "count": 6,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "link",
+          "count": 6,
+          "values": [
+            "https://us05web.zoom.us/j/85618537532?pwd=KzFXVk9NUnJYeEwyKzd3aXU4UXQ1UT09",
+            "https://us05web.zoom.us/j/85618537532?pwd=KzFXVk9NUnJYeEwyKzd3aXU4UXQ1UT09",
+            "https://us05web.zoom.us/j/85618537532?pwd=KzFXVk9NUnJYeEwyKzd3aXU4UXQ1UT09",
+            "https://us05web.zoom.us/j/85618537532?pwd=KzFXVk9NUnJYeEwyKzd3aXU4UXQ1UT09",
+            "https://us05web.zoom.us/j/85618537532?pwd=KzFXVk9NUnJYeEwyKzd3aXU4UXQ1UT09",
+            "https://us05web.zoom.us/j/85618537532?pwd=KzFXVk9NUnJYeEwyKzd3aXU4UXQ1UT09"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 6,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "moduleName",
+      "path": "moduleName",
+      "count": 6,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "moduleName",
+          "count": 6,
+          "values": [
+            "Logic Building",
+            "Logic Building",
+            "DBT",
+            "DBT",
+            "Logic Building",
+            "DBT"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 2,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 6,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "time",
+      "path": "time",
+      "count": 6,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "time",
+          "count": 6,
+          "values": [
+            "14:00",
+            "14:00",
+            "08:00",
+            "08:00",
+            "14:00",
+            "08:00"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 2,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 6,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "updateId",
+      "path": "updateId",
+      "count": 6,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "updateId",
+          "count": 6,
+          "values": [
+            "apt_2022-09-24T18:15:54.173Z",
+            "apt_2022-09-24T18:16:00.555Z",
+            "apt_2022-09-24T18:15:36.303Z",
+            "apt_2022-09-24T18:15:14.325Z",
+            "apt_2022-09-24T18:15:48.413Z",
+            "apt_2022-09-24T18:15:30.765Z"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 6,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 6,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    }
+  ],
+  "count": 6
+}

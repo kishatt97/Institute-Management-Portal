@@ -1,0 +1,56 @@
+.doc-preview-container{
+  background-color: white;
+  box-shadow: 0 1px 2px 0 rgb(60 64 67 / 30%), 0 1px 3px 1px rgb(60 64 67 / 15%);
+  border: 1pxsolidvar(--dt-inverse-on-surface,#dadce0);
+  border-radius: 6px;
+  cursor: pointer;
+  margin: 7px;
+  overflow: hidden;
+  position: relative;
+  transition: box-shadow 200ms cubic-bezier(0.4,0,0.2,1);
+  min-width: 230px;
+  max-width: 350px;
+}
+.doc-preview-view{
+  border-top: 1px solid var(--dt-inverse-on-surface,rgb(218,220,224));
+  position: relative;
+  text-align: center;
+}
+.doc-preview-pane{
+  user-select: none;
+}
+.doc-preview-path{
+  height: 150px;
+  background-color: var(--dt-surface1,#fff);
+  border-top: 1px solid var(--dt-inverse-on-surface,rgb(218,220,224));
+  box-sizing: border-box;
+  padding: 13px 16px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+.preview{
+  background: #0000009c;
+  margin: 80px;
+  box-shadow: 0 6px 6px 0 rgb(255 255 255 / 30%), 0 6px 6px 6px rgb(60 64 67 / 15%);
+  height: calc(100vh - 36vh);
+}
+.preview-close-btn{
+  position: absolute;
+  right: 98px;
+  top: 98px;
+  width: 30px;
+  align-items: flex-start;
+}
+.preview-image-container{
+  height: inherit;
+  width: inherit;
+  margin: 68px;
+  position: relative;
+  background-color: #7d7d7d;
+  border: 40px solid #313131;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,523 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 14,
+      "types": [
+        {
+          "name": "ObjectID",
+          "bsonType": "ObjectID",
+          "path": "_id",
+          "count": 14,
+          "values": [
+            "632f48f862cecb41ad98c21a",
+            "632f442162cecb41ad98c218",
+            "63308ed9404f72083ee42ba0",
+            "63308ff5404f72083ee42ba4",
+            "63308f6c404f72083ee42ba2",
+            "63308fb8404f72083ee42ba3",
+            "63308efd404f72083ee42ba1",
+            "632f419f62cecb41ad98c211",
+            "63309019404f72083ee42ba5",
+            "63309044404f72083ee42ba6",
+            "63308ea3404f72083ee42b9f",
+            "632f3fbc62cecb41ad98c20e",
+            "632f445462cecb41ad98c219",
+            "632ff9fcc1fdf621416a84d3"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 14,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 14,
+      "type": "ObjectID",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "_class",
+      "path": "_class",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "_class",
+          "count": 14,
+          "values": [
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster",
+            "com.example.studentportal.modal.UserMaster"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 1,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "course",
+      "path": "course",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "course",
+          "count": 14,
+          "values": [
+            "PgDac",
+            "PgDac",
+            "PgDac",
+            "PgDac",
+            "PgDbda",
+            "PgDac",
+            "PgDac",
+            "PgDac",
+            "PgDac",
+            "PgDbda",
+            "PgDac",
+            "PgDac",
+            "PgDac",
+            "PgDac"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 2,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "emailId",
+      "path": "emailId",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "emailId",
+          "count": 14,
+          "values": [
+            "archit@gmail.com",
+            "asham@gmail.com",
+            "aditya.desh@gmail.com",
+            "supriya.deshmukh",
+            "aman.verma@gmail.com",
+            "sanjay.patel@gmail.com",
+            "aishwary@gmail.com",
+            "kishori.att@gmail.com",
+            "seema.rane@gmail.com",
+            "gurpreet.singh@gmail.com",
+            "swapnil@gmail.com",
+            "puneet.goswami@gmail.com",
+            "poonam.khare@gmail.com",
+            "mandar.patil@gmail.com"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 14,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "firstName",
+      "path": "firstName",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "firstName",
+          "count": 14,
+          "values": [
+            "Archit",
+            "Asha",
+            "Aditya",
+            "Supriya",
+            "Aman",
+            "Sanjay",
+            "Aishwarya",
+            "Kishori",
+            "Seema",
+            "Gurpreet",
+            "Swapnil",
+            "Puneet",
+            "Poonam",
+            "Mandar"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 14,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "gender",
+      "path": "gender",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "gender",
+          "count": 14,
+          "values": [
+            "Male",
+            "Female",
+            "Male",
+            "Female",
+            "Male",
+            "Male",
+            "Female",
+            "Female",
+            "Female",
+            "Male",
+            "Male",
+            "Male",
+            "Female",
+            "Male"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 2,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "graduationMarks",
+      "path": "graduationMarks",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "graduationMarks",
+          "count": 14,
+          "values": [
+            "",
+            "",
+            "70",
+            "",
+            "72",
+            "",
+            "75",
+            "60",
+            "",
+            "",
+            "65",
+            "",
+            "",
+            ""
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 6,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "hscMarks",
+      "path": "hscMarks",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "hscMarks",
+          "count": 14,
+          "values": [
+            "",
+            "",
+            "75",
+            "",
+            "77",
+            "",
+            "78",
+            "72",
+            "",
+            "",
+            "70",
+            "",
+            "",
+            ""
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 6,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "lastName",
+      "path": "lastName",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "lastName",
+          "count": 14,
+          "values": [
+            "Patel",
+            "Mehta",
+            "Deshpande",
+            "Deshmukh",
+            "Verma",
+            "Patel",
+            "Shinde",
+            "Attarde",
+            "Rane",
+            "Singh",
+            "Pachupate",
+            "Goswami",
+            "Khare",
+            "Patil"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 13,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "moduleTakenByFaculty",
+      "path": "moduleTakenByFaculty",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "moduleTakenByFaculty",
+          "count": 14,
+          "values": [
+            "",
+            "Java",
+            "",
+            "WPT",
+            "",
+            "MS .NET",
+            "",
+            "",
+            "SDM",
+            "Python",
+            "",
+            "DBT",
+            "Logic Building",
+            ""
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 8,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "password",
+      "path": "password",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "password",
+          "count": 14,
+          "values": [
+            "Admin@1234",
+            "Faculty@122",
+            "Student@1111",
+            "Faculty@2022",
+            "Student@123",
+            "Faculty@1234",
+            "Student@2022",
+            "Student@1997",
+            "Faculty@2022",
+            "Faculty@2022",
+            "Student@2019",
+            "Faculty@167",
+            "Faculty@777",
+            "Admin@8778"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 12,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "sscMarks",
+      "path": "sscMarks",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "sscMarks",
+          "count": 14,
+          "values": [
+            "",
+            "",
+            "87",
+            "",
+            "90",
+            "",
+            "88",
+            "82",
+            "",
+            "",
+            "85",
+            "",
+            "",
+            ""
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 6,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "userType",
+      "path": "userType",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "userType",
+          "count": 14,
+          "values": [
+            "Admin",
+            "Faculty",
+            "Student",
+            "Faculty",
+            "Student",
+            "Faculty",
+            "Student",
+            "Student",
+            "Faculty",
+            "Faculty",
+            "Student",
+            "Faculty",
+            "Faculty",
+            "Admin"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 3,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "YearOfExperienceOfFaculty",
+      "path": "YearOfExperienceOfFaculty",
+      "count": 14,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "YearOfExperienceOfFaculty",
+          "count": 14,
+          "values": [
+            "",
+            "18",
+            "",
+            "15",
+            "",
+            "25",
+            "",
+            "",
+            "10",
+            "20",
+            "",
+            "20",
+            "12",
+            ""
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 7,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 14,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    }
+  ],
+  "count": 14
+}

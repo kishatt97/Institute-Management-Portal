@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 16,
+      "types": [
+        {
+          "name": "ObjectID",
+          "bsonType": "ObjectID",
+          "path": "_id",
+          "count": 16,
+          "values": [
+            "632f399c79e2e738c26fc35d",
+            "632f38f679e2e738c26fc351",
+            "632f3a0279e2e738c26fc365",
+            "632f398779e2e738c26fc35b",
+            "632f3ab279e2e738c26fc36d",
+            "632f39ed79e2e738c26fc363",
+            "632f393d79e2e738c26fc355",
+            "632f3a0f79e2e738c26fc367",
+            "632f396079e2e738c26fc359",
+            "632f39af79e2e738c26fc35f",
+            "632f39bd79e2e738c26fc361",
+            "632f3aa479e2e738c26fc36b",
+            "632f3ac979e2e738c26fc36f",
+            "632f394c79e2e738c26fc357",
+            "632f392c79e2e738c26fc353",
+            "632f3a3979e2e738c26fc369"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 16,
+          "has_duplicates": false
+        }
+      ],
+      "total_count": 16,
+      "type": "ObjectID",
+      "has_duplicates": false,
+      "probability": 1
+    },
+    {
+      "name": "course",
+      "path": "course",
+      "count": 16,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "course",
+          "count": 16,
+          "values": [
+            "PgDac",
+            "PgDac",
+            "PgDbda",
+            "PgDac",
+            "PgDbda",
+            "PgDbda",
+            "PgDac",
+            "PgDbda",
+            "PgDac",
+            "PgDac",
+            "PgDac",
+            "PgDbda",
+            "PgDbda",
+            "PgDac",
+            "PgDac",
+            "PgDbda"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 2,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 16,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "duration",
+      "path": "duration",
+      "count": 16,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "duration",
+          "count": 16,
+          "values": [
+            "12 Days",
+            "15 Days",
+            "30 Days",
+            "18 Days",
+            "10 Days",
+            "15 Days",
+            "5 Days",
+            "25 Days",
+            "15 Days",
+            "15 Days",
+            "10 Days",
+            "12 Days",
+            "15 Days",
+            "25 Days",
+            "10 Days",
+            "12 Days"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 7,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 16,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    },
+    {
+      "name": "subject",
+      "path": "subject",
+      "count": 16,
+      "types": [
+        {
+          "name": "String",
+          "bsonType": "String",
+          "path": "subject",
+          "count": 16,
+          "values": [
+            "SDM",
+            "DBT",
+            "Python",
+            "WPT",
+            "BDT",
+            "Linux Programming",
+            "Logic Building",
+            "Java",
+            "Data Structures",
+            "MS .NET",
+            "Aptitude",
+            "DBMS",
+            "Machine Learning",
+            "Java",
+            "OS",
+            "Advanced Analytics"
+          ],
+          "total_count": 0,
+          "probability": 1,
+          "unique": 15,
+          "has_duplicates": true
+        }
+      ],
+      "total_count": 16,
+      "type": "String",
+      "has_duplicates": true,
+      "probability": 1
+    }
+  ],
+  "count": 16
+}
